@@ -23,10 +23,10 @@
     <th width="50%">Tᴏᴏʟꜱ</th>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       asd
     </td>
-    <td>
+    <td width="50%">
       asd
     </td>
   </tr>
