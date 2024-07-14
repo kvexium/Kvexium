@@ -17,20 +17,20 @@
 
 <h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
 
-<table width="100%">
+<table>
   <tr>
-    <th width="50%">Lᴀɴɢᴜᴀɢᴇꜱ</th>
-    <th width="50%">Tᴏᴏʟꜱ</th>
+    <th>Lᴀɴɢᴜᴀɢᴇꜱ</th>
+    <th>Tᴏᴏʟꜱ</th>
   </tr>
   <tr>
-    <td width="50%">
-      <p align="center">
+    <td>
+      <p>
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
       </p>
     </td>
-    <td width="50%">
+    <td>
       asd
     </td>
   </tr>
