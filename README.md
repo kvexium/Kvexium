@@ -17,10 +17,10 @@
 
 <h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <th>Lᴀɴɢᴜᴀɢᴇꜱ</th>
-    <th>Tᴏᴏʟꜱ</th>
+    <th width="50%">Lᴀɴɢᴜᴀɢᴇꜱ</th>
+    <th width="50%">Tᴏᴏʟꜱ</th>
   </tr>
   <tr>
     <td>
@@ -36,14 +36,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kvevcium&label=Profile%20views&color=008B8B&style=for-the-badge&logo=star" alt="Kvevcium" style="padding-right:20px;" />
 </p>
-
-<table>
-  <tr>Languages
-  <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  </td>
-  </tr>
-</table>
 
 ---
 
@@ -145,6 +137,6 @@
 
 
 <!--Footer--> 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
