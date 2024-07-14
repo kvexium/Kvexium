@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+<!-- ![Kiran1689 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
