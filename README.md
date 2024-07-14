@@ -109,23 +109,23 @@
 <div align="center">
   
 <a href="mailto:kvevcium+support@gmail.com" target="_blank" style="text-decoration: none !important;">
-<img src="./gmail.png" width=75 height=75 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=75 height=75 alt="kvevcium+support@gmail.com" style="margin-bottom: 15px;" />
 </a>
 
 <a href="https://www.instagram.com/kvevcium" target="_blank" style="text-decoration: none !important;">
-<img src="./instagram.png" width=75 height=75 alt="instagram" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=75 height=75 alt="instagram" style="margin-bottom: 15px;" />
 </a>
 
 <a href="https://www.github.com/Kvevcium" target="_blank" style="text-decoration: none !important;">
-<img src="./github.png" width=75 height=75 alt="github" style="margin-bottom: 5px;" />
+<img src="./github.png" width=75 height=75 alt="github" style="margin-bottom: 15px;" />
 </a>
 
 <a href="https://www.linktr.ee/in/kvevcium" target="_blank" style="text-decoration: none !important;">
-<img src="./linktree.png" width=75 height=75 alt="linktree" style="margin-bottom: 5px;" />
+<img src="./linktree.png" width=75 height=75 alt="linktree" style="margin-bottom: 15px;" />
 </a>
 
 <a href="discord.gg/kvevcium" target="_blank" style="text-decoration: none !important;">
-<img src="./discord.png" width=75 height=75 alt="discord" style="margin-bottom: 5px;" />
+<img src="./discord.png" width=75 height=75 alt="discord" style="margin-bottom: 15px;" />
 </a>
 </div>
 <br/>
