@@ -16,7 +16,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ and for all for ᴋᴠᴇᴠᴄɪᴜᴍ. </p>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1705794626/87791/heart.png?1705794626" width="30"/> Programming Languages: Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
+- <img src="https://emojis.slackmojis.com/emojis/images/1705794626/87791/heart.png?1705794626" width="20"/> Programming Languages: Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
