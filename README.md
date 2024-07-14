@@ -27,7 +27,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kvevcium&label=Profile%20views&color=40E0D0&style=for-the-badge&logo=star" alt="Kvevcium" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Kvevcium&label=Profile%20views&color=008B8B&style=for-the-badge&logo=star" alt="Kvevcium" style="padding-right:20px;" />
 </p>
 
 ---
