@@ -108,7 +108,7 @@
 <h2 align="center">ミ Cᴏɴᴛᴀᴄᴛ 彡</h2>
 <div align="center">
   
-<a href="mailto:kvevcium+support@gmail.com" target="_blank" style="text-decoration: none !important;"padding-right: 5px;>
+<a href="mailto:kvevcium+support@gmail.com" target="_blank" style="text-decoration: none !important;padding-right: 5px;">
 <img src="./gmail.png" width=75 height=75 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
