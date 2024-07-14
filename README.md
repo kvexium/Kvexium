@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="./kvevcium.png">
+  <img align="right" width="60%" src="./kvevcium.png">
 </div>
 
 <!--Header Name-->
