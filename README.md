@@ -9,7 +9,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="20"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!
+# <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="20" padding-bottom="-5px"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
