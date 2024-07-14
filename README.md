@@ -18,7 +18,7 @@
 <!--Start Intro-->               
 <p align="left">I am a little Hobbyist and Programming Enthusiast with a huge love for Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ and espacially for Kᴠᴇᴠᴄɪᴜᴍ. </p>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1705794626/87791/heart.png?1705794626" width="20"/> Programming Languages: Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="15"/>
+- <img src="https://emojis.slackmojis.com/emojis/images/1705794626/87791/heart.png?1705794626" width="20"/> Programming Languages: Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="10"/>
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
