@@ -10,7 +10,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!
-*Hobbyist* \t \[ good at programming irrelevant stuff シ \]
+*Hobbyist*    \[ good at programming irrelevant stuff シ \]
 <br /> 
 
 <!-- https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 -->
