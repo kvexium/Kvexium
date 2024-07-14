@@ -20,12 +20,12 @@
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://kvevcium.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Kvevcium&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -62,11 +62,11 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689">
+  <a href="https://github.com/Kvevcium">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kvevcium&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
@@ -81,15 +81,15 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kvevcium&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <a href="https://github.com/Kvevcium">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kvevcium&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -98,16 +98,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/Kvevcium/kvevc">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kvevcium&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/Kvevcium">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kvevcium&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
