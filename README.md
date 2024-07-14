@@ -18,16 +18,16 @@
 <h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
 
 <table>
-  <tr> Lᴀɴɢᴜᴀɢᴇꜱ
+  <th> Lᴀɴɢᴜᴀɢᴇꜱ
     <td>
       asd
     </td>
-  </tr>
-  <tr> Tᴏᴏʟꜱ
+  </th>
+  <th> Tᴏᴏʟꜱ
     <td>
       asd
     </td>
-  </tr>
+  </th>
 </table>
 
 <!--Profile Count Badge-->
