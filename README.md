@@ -16,7 +16,7 @@
 <!--Start Intro-->               
 <p align="left">ɪ ᴀᴍ ᴀ ʟɪᴛᴛʟᴇ ʜᴏʙʙʏɪꜱᴛ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴡɪᴛʜ ᴀ ʜᴜɢᴇ ʟᴏᴠᴇ ꜰᴏʀ Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ ᴀɴᴅ ᴇꜱᴘᴀᴄɪᴀʟʟʏ ꜰᴏʀ Kᴠᴇᴠᴄɪᴜᴍ.</p>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="20"/> Programming Languages &#8250; Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
+- <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="20"/> Programming Languages \>\> Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
