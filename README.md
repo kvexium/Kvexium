@@ -198,11 +198,11 @@
 <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/kvevcium" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kvevcium" target="_blank">
+<a href="https://www.github.com/Kvevcium" target="_blank">
 <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-256x256-rporzkkh.png" width=50 height=50 alt="Kvevcium" style="margin-bottom: 5px;" />
 </a>
 
