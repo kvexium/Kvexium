@@ -99,7 +99,7 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">ミ Cᴏɴᴛᴀᴄᴛ 彡</h2>
+<h2 align="center">ミ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 彡</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvevcium&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
@@ -108,7 +108,7 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">ミ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 彡</h2>
+<h2 align="center">ミ Cᴏɴᴛᴀᴄᴛ 彡</h2>
 <div align="center">
   
 <a href="mailto:kvevcium+support@gmail.com" target="_blank">
