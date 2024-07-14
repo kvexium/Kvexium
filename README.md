@@ -206,8 +206,8 @@
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<a href="https://www.linktr.ee/in/kvevcium" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" width=50 height=50 alt="linktree" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://dev.to/dev_kiran" target="_blank">
