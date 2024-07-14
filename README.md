@@ -11,19 +11,24 @@
 *Hᴏʙʙʏɪꜱᴛ* &nbsp;&nbsp; \[ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ \]
 <br /> 
 
-<!-- https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 -->
-
-<!--Start Intro-->               
+<!--Start Intro-->
 <p align="left">ɪ ᴀᴍ ᴀ ʟɪᴛᴛʟᴇ ʜᴏʙʙʏɪꜱᴛ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴡɪᴛʜ ᴀ ʜᴜɢᴇ ʟᴏᴠᴇ ꜰᴏʀ Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ ᴀɴᴅ ᴇꜱᴘᴀᴄɪᴀʟʟʏ ꜰᴏʀ Kᴠᴇᴠᴄɪᴜᴍ.</p>
-
-- <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="20"/> Programming Languages \>\> Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kvevcium.github.io) for more details about me.
 <!--End Intro-->
+
+<h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
+
+<table>
+  <tr> Lᴀɴɢᴜᴀɢᴇꜱ
+    <td>
+      asd
+    </td>
+  </tr>
+  <tr> Tᴏᴏʟꜱ
+    <td>
+      asd
+    </td>
+  </tr>
+</table>
 
 <!--Profile Count Badge-->
 <p align="left">
