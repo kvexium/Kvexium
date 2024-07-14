@@ -43,7 +43,7 @@
 ---
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">ミ Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 彡</h2>
 <p align="center">
   <a href="https://github.com/Kvevcium">
     <picture>
@@ -56,7 +56,7 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">ミ Gɪᴛʜᴜʙ Sᴛᴀᴛs 彡</h2>
 
 <table width="100%">
   <tr>
@@ -105,68 +105,6 @@
 </div>
 
 ---
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Elegance%20does%20not%20consist%20in%20putting%20on%20a%20new%20dress.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--Contact Section--> 
 
