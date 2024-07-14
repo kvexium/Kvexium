@@ -43,7 +43,7 @@
 ---
 
 <!--Trophies Section-->   
-<h2 align="center">ミ Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 彡</h2>
+<!-- <h2 align="center">ミ Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 彡</h2>
 <p align="center">
   <a href="https://github.com/Kvevcium">
     <picture>
@@ -53,7 +53,7 @@
     </picture>
   </a>
 </p>
-<br />
+<br /> -->
 
 <!--Github stats Table--> 
 <h2 align="center">ミ Gɪᴛʜᴜʙ Sᴛᴀᴛs 彡</h2>
@@ -77,7 +77,7 @@
       </p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
@@ -94,7 +94,7 @@
         </a>
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <br />
 
