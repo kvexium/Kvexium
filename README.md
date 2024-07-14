@@ -191,27 +191,23 @@
 <div align="center">
   
 <a href="mailto:kvevcium+support@gmail.com" target="_blank">
-<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width=50 height=50 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/kvevcium" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.github.com/Kvevcium" target="_blank">
-<img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-256x256-rporzkkh.png" width=50 height=50 alt="Kvevcium" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="github" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linktr.ee/in/kvevcium" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" width=50 height=50 alt="linktree" style="margin-bottom: 5px;" />
+<img src="./linktree.png" width=50 height=50 alt="linktree" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+<img src="./discord.png" width=50 height=50 alt="discord" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
