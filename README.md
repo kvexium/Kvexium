@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <!--Banner-->
 <!-- ![Kiran1689 Banner Image](./banner.png)
 
@@ -10,15 +8,15 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!
-*Hobbyist* &nbsp;&nbsp; \[ good at programming irrelevant stuff シ \]
+*Hᴏʙʙʏɪꜱᴛ* &nbsp;&nbsp; \[ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ \]
 <br /> 
 
 <!-- https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 -->
 
 <!--Start Intro-->               
-<p align="left">I am a little Hobbyist and Programming Enthusiast with a huge love for Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ and espacially for Kᴠᴇᴠᴄɪᴜᴍ. </p>
+<p align="left">ɪ ᴀᴍ ᴀ ʟɪᴛᴛʟᴇ ʜᴏʙʙʏɪꜱᴛ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴡɪᴛʜ ᴀ ʜᴜɢᴇ ʟᴏᴠᴇ ꜰᴏʀ Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ ᴀɴᴅ ᴇꜱᴘᴀᴄɪᴀʟʟʏ ꜰᴏʀ Kᴠᴇᴠᴄɪᴜᴍ.</p>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="20"/> Programming Languages: Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
+- <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="20"/> Programming Languages <img src="https://www.svgrepo.com/show/67689/right-arrow.svg" width="15"/> Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
