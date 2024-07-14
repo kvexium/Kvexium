@@ -3,11 +3,11 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="20%" padding-top="20px" src="./kvevcium.png">
+  <img align="right" width="20%" padding-top="20px" src="./kvevcium.png" z-index="2">
 </div>
 
 <!--Header Name-->
-<h1 style="border-bottom: 0px solid transparent !important"><img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!</h1>
+<h1 style="border-bottom: 0px solid transparent !important"><img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40" z-index="1"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!</h1>
 *Hᴏʙʙʏɪꜱᴛ* &nbsp;&nbsp; \[ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ \]
 <br /> 
 
