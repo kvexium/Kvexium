@@ -7,9 +7,11 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="30"/> ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
+
+<!-- https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 -->
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ and for all for ᴋᴠᴇᴠᴄɪᴜᴍ. </p>
