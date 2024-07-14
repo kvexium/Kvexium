@@ -18,7 +18,7 @@
 <!--Start Intro-->               
 <p align="left">I am a little Hobbyist and Programming Enthusiast with a huge love for Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ and espacially for Kᴠᴇᴠᴄɪᴜᴍ. </p>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1705794626/87791/heart.png?1705794626" width="20"/> Programming Languages: Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="10"/>
+- <img src="https://emojis.slackmojis.com/emojis/images/1705794628/87795/fire.png?1705794628" width="20"/> Programming Languages: Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Kᴠᴇᴠᴄɪᴜᴍ
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
@@ -112,23 +112,23 @@
 <div align="center">
   
 <a href="mailto:kvevcium+support@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=75 height=75 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/kvevcium" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=75 height=75 alt="instagram" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.github.com/Kvevcium" target="_blank">
-<img src="./github.png" width=50 height=50 alt="github" style="margin-bottom: 5px;" />
+<img src="./github.png" width=75 height=75 alt="github" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linktr.ee/in/kvevcium" target="_blank">
-<img src="./linktree.png" width=50 height=50 alt="linktree" style="margin-bottom: 5px;" />
+<img src="./linktree.png" width=75 height=75 alt="linktree" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./discord.png" width=50 height=50 alt="discord" style="margin-bottom: 5px;" />
+<img src="./discord.png" width=75 height=75 alt="discord" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
