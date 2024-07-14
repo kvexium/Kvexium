@@ -191,7 +191,7 @@
 <div align="center">
   
 <a href="mailto:kvevcium+support@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
+<img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width=50 height=50 alt="kvevcium+support@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/kiran__a__n" target="_blank">
@@ -202,8 +202,8 @@
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/Kvevcium" target="_blank">
+<img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-256x256-rporzkkh.png" width=50 height=50 alt="Kvevcium" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linktr.ee/in/kvevcium" target="_blank">
