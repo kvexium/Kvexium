@@ -59,7 +59,7 @@
 <!--Github stats Table--> 
 <h2 align="center">ミ Gɪᴛʜᴜʙ Sᴛᴀᴛs 彡</h2>
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
@@ -96,18 +96,18 @@
       </p>
     </td>
   </tr> -->
-</table>
-<br />
+<!-- </table>
+<br /> --> 
 
 <a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
 <br/>
 
 <!--Contribution Graph-->
-<h2 align="center">ミ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 彡</h2>
+<!-- <h2 align="center">ミ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 彡</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvevcium&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
+</div> -->
 
 ---
 
