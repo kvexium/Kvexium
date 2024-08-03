@@ -25,10 +25,10 @@
   <tr>
     <td>
       <p>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
         <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
       </p>
     </td>
     <td>
