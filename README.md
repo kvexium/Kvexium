@@ -25,13 +25,12 @@
   <tr>
     <td>
       <p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
         <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
         <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
         <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
       </p>
     </td>
     <td>
