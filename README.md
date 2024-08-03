@@ -7,12 +7,12 @@
 </div>
 
 <!--Header Name-->
-<h1 style="border-bottom: 0px !important"><img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40" z-index="1"/>&nbsp; ʜɪ, ᴋᴠᴇᴠᴄɪᴜᴍ ʜᴇʀᴇ!</h1>
+<h1 style="border-bottom: 0px !important"><img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40" z-index="1"/>&nbsp; ʜɪ, ᴋᴠᴇxɪᴜᴍ ʜᴇʀᴇ!</h1>
 <strong>Hᴏʙʙʏɪꜱᴛ</strong> &nbsp;&nbsp; [ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ]
 <br /> 
 
 <!--Start Intro-->
-<p align="left">ɪ ᴀᴍ ᴀ ʟɪᴛᴛʟᴇ ʜᴏʙʙʏɪꜱᴛ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴡɪᴛʜ ᴀ ʜᴜɢᴇ ʟᴏᴠᴇ ꜰᴏʀ Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Gᴏ ᴀɴᴅ ᴇꜱᴘᴀᴄɪᴀʟʟʏ ꜰᴏʀ Kᴠᴇxɪᴜᴍ.</p>
+<p align="left">ɪ ᴀᴍ ᴀ ʟɪᴛᴛʟᴇ ʜᴏʙʙʏɪꜱᴛ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴡɪᴛʜ ᴀ ʜᴜɢᴇ ʟᴏᴠᴇ ꜰᴏʀ Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Gᴏ ᴀɴᴅ ᴇꜱᴘᴇᴄɪᴀʟʟʏ ꜰᴏʀ Kᴠᴇxɪᴜᴍ.</p>
 <!--End Intro-->
 
 <h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
