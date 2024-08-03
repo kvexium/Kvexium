@@ -31,6 +31,7 @@
         <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
         <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GO Lang" height="40" style="vertical-align:top; margin:4px">
       </p>
     </td>
     <td>
