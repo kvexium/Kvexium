@@ -8,7 +8,28 @@
 
 <!--Header Name-->
 <h1 style="border-bottom: 0px !important"><img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40" z-index="1"/>&nbsp; ʜɪ, ᴋᴠᴇxɪᴜᴍ ʜᴇʀᴇ!</h1>
-<strong>Jᴜꜱᴛ ᴍᴇ, <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a></strong> &nbsp;&nbsp; [ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ]
+
+<p><strong>ᴋᴠᴇxɪᴜᴍ ᴜɢ</strong> ɪꜱ ᴀ ꜱᴍᴀʟʟ, ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴇᴀᴍ ꜰᴏᴄᴜꜱᴇᴅ ꜱᴏʟᴇʟʏ ᴏɴ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴛʜᴇ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ <strong>ᴋᴠᴇxɪᴜᴍ</strong>. ʟᴇᴅ ʙʏ <a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a> [ ᴏɴʟʏ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ], ᴏᴜʀ ᴍɪꜱꜱɪᴏɴ ɪꜱ ᴛᴏ ᴘᴜꜱʜ ᴛʜᴇ ʙᴏᴜɴᴅᴀʀɪᴇꜱ ᴏꜰ ᴍᴏᴅᴇʀɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʙʏ ᴄʀᴇᴀᴛɪɴɢ ᴀ ʟᴀɴɢᴜᴀɢᴇ ᴛʜᴀᴛ ʙᴀʟᴀɴᴄᴇꜱ ᴘᴏᴡᴇʀ, ᴘʀᴇᴄɪꜱɪᴏɴ, ᴀɴᴅ ᴇxᴘʀᴇꜱꜱɪᴠᴇ, ᴋɪɴᴅ ᴏꜰ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ɴᴇᴡ ꜱʏɴᴛᴀx. ᴡᴇ ᴀʀᴇ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴘʀᴏᴠɪᴅɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ ᴡɪᴛʜ ᴛʜᴇ ᴛᴏᴏʟꜱ ᴛʜᴇʏ ɴᴇᴇᴅ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴍᴘʟᴇx ᴘʀᴏʙʟᴇᴍꜱ ᴇꜰꜰɪᴄɪᴇɴᴛʟʏ ᴀɴᴅ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ.</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <tr>
+        <th>Category</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td><strong>ꜰᴏᴜɴᴅᴇʀ</strong></td>
+        <td><a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a></td>
+    </tr>
+    <tr>
+        <td><strong>ʟᴀɴɢᴜᴀɢᴇ ᴅᴇꜱɪɢɴ</strong></td>
+        <td><a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a></td>
+    </tr>
+    <tr>
+        <td><strong>ʟɪʙʀᴀʀɪᴇꜱ</strong></td>
+        <td><a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a></td>
+    </tr>
+</table>
+
 <br /><br />
 
 <!-- <h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
