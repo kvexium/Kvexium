@@ -11,22 +11,22 @@
 
 <p><strong>ᴋᴠᴇxɪᴜᴍ ᴜɢ</strong> ɪꜱ ᴀ ꜱᴍᴀʟʟ, ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴇᴀᴍ ꜰᴏᴄᴜꜱᴇᴅ ꜱᴏʟᴇʟʏ ᴏɴ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴛʜᴇ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ <strong>ᴋᴠᴇxɪᴜᴍ</strong>. ʟᴇᴅ ʙʏ <a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a> [ ᴏɴʟʏ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ], ᴏᴜʀ ᴍɪꜱꜱɪᴏɴ ɪꜱ ᴛᴏ ᴘᴜꜱʜ ᴛʜᴇ ʙᴏᴜɴᴅᴀʀɪᴇꜱ ᴏꜰ ᴍᴏᴅᴇʀɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʙʏ ᴄʀᴇᴀᴛɪɴɢ ᴀ ʟᴀɴɢᴜᴀɢᴇ ᴛʜᴀᴛ ʙᴀʟᴀɴᴄᴇꜱ ᴘᴏᴡᴇʀ, ᴘʀᴇᴄɪꜱɪᴏɴ, ᴀɴᴅ ᴇxᴘʀᴇꜱꜱɪᴠᴇ, ᴋɪɴᴅ ᴏꜰ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ɴᴇᴡ ꜱʏɴᴛᴀx. ᴡᴇ ᴀʀᴇ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴘʀᴏᴠɪᴅɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ ᴡɪᴛʜ ᴛʜᴇ ᴛᴏᴏʟꜱ ᴛʜᴇʏ ɴᴇᴇᴅ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴍᴘʟᴇx ᴘʀᴏʙʟᴇᴍꜱ ᴇꜰꜰɪᴄɪᴇɴᴛʟʏ ᴀɴᴅ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ.</p>
 
-<table border="1" cellpadding="5" cellspacing="0">
+<table border="1">
     <tr>
-        <th>Category</th>
-        <th>Details</th>
+        <th>Cᴀᴛᴇɢᴏʀʏ</th>
+        <th>Nᴀᴍᴇꜱ ᴏꜰ Cᴏɴᴛʀɪʙᴜᴛᴏʀꜱ</th>
     </tr>
     <tr>
         <td><strong>ꜰᴏᴜɴᴅᴇʀ</strong></td>
-        <td><a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a></td>
+        <td><a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a></td>
     </tr>
     <tr>
         <td><strong>ʟᴀɴɢᴜᴀɢᴇ ᴅᴇꜱɪɢɴ</strong></td>
-        <td><a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a></td>
+        <td><a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a></td>
     </tr>
     <tr>
         <td><strong>ʟɪʙʀᴀʀɪᴇꜱ</strong></td>
-        <td><a href="https://github.com/kuhlklay">ᴋᴜʜʟᴋʟᴀʏ</a></td>
+        <td><a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a></td>
     </tr>
 </table>
 
