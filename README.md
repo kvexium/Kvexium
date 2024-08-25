@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="20%" padding-top="20px" src="./kvevcium.png" z-index="2">
+  <img align="right" width="10%" padding-top="10px" src="./kvevcium.png" z-index="2">
 </div>
 
 <!--Header Name-->
@@ -11,7 +11,7 @@
 <strong>Jᴜꜱᴛ ᴍᴇ, <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a></strong> &nbsp;&nbsp; [ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ]
 <br /><br />
 
-<h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
+<!-- <h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
 
 <table>
   <tr>
@@ -37,10 +37,10 @@
   </tr>
 </table>
 
-<!--Profile Count Badge-->
+Profile Count Badge
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kvevcium&label=Profile%20views&color=008B8B&style=for-the-badge&logo=star" alt="Kvevcium" style="padding-right:20px;" />
-</p>
+</p> -->
 
 ---
 
@@ -100,7 +100,7 @@
 <!-- </table>
 <br /> --> 
 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvevcium&layout=compact&theme=tokyonight" /></a>
+<!-- <a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvevcium&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=kvevcium&theme=tokyonight" alt="muskanrani" />
 <br/>
 
@@ -140,8 +140,8 @@
 <br/>
 
 <!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<!-- <div align="center">
+<a href="https://www.buymeacoffee.com/Kvexium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
