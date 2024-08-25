@@ -11,10 +11,6 @@
 <strong>Jᴜꜱᴛ ᴍᴇ, <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a></strong> &nbsp;&nbsp; [ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ]
 <br /><br />
 
-<!--Start Intro-->
-<p align="left">ɪ ᴀᴍ ᴀ ʟɪᴛᴛʟᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴡɪᴛʜ ᴀ ʜᴜɢᴇ ʟᴏᴠᴇ ꜰᴏʀ Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Gᴏ ᴀɴᴅ ᴇꜱᴘᴇᴄɪᴀʟʟʏ ꜰᴏʀ Kᴠᴇxɪᴜᴍ.</p>
-<!--End Intro-->
-
 <h2 align="center">ミ Lᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ Tᴏᴏʟꜱ 彡</h2>
 
 <table>
