@@ -9,7 +9,7 @@
 <!--Header Name-->
 <h1 style="border-bottom: 0px !important"><img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40" z-index="1"/>&nbsp; ʜɪ, ᴋᴠᴇxɪᴜᴍ ʜᴇʀᴇ!</h1>
 <strong>Jᴜꜱᴛ ᴍᴇ, <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a></strong> &nbsp;&nbsp; [ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ]
-<br /> 
+<br /><br />
 
 <!--Start Intro-->
 <p align="left">ɪ ᴀᴍ ᴀ ʟɪᴛᴛʟᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴡɪᴛʜ ᴀ ʜᴜɢᴇ ʟᴏᴠᴇ ꜰᴏʀ Jᴀᴠᴀ, Rᴜꜱᴛ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ, Gᴏ ᴀɴᴅ ᴇꜱᴘᴇᴄɪᴀʟʟʏ ꜰᴏʀ Kᴠᴇxɪᴜᴍ.</p>
