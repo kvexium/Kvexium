@@ -33,7 +33,7 @@
     <tr>
         <td><strong>ʟɪʙʀᴀʀɪᴇꜱ</strong></td>
         <td>
-          \---
+          ---
         </td>
     </tr>
 </table>
