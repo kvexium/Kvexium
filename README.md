@@ -33,7 +33,7 @@
     <tr>
         <td><strong>ʟɪʙʀᴀʀɪᴇꜱ</strong></td>
         <td>
-          <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a>
+          \---
         </td>
     </tr>
 </table>
