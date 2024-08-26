@@ -63,8 +63,6 @@ Profile Count Badge
   <img src="https://komarev.com/ghpvc/?username=Kvevcium&label=Profile%20views&color=008B8B&style=for-the-badge&logo=star" alt="Kvevcium" style="padding-right:20px;" />
 </p> -->
 
----
-
 <!--Trophies Section-->   
 <!-- <h2 align="center">ミ Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 彡</h2>
 <p align="center">
@@ -79,7 +77,7 @@ Profile Count Badge
 <br /> -->
 
 <!--Github stats Table--> 
-<h2 align="center">ミ Gɪᴛʜᴜʙ Sᴛᴀᴛs 彡</h2>
+<!--<h2 align="center">ミ Gɪᴛʜᴜʙ Sᴛᴀᴛs 彡</h2>
 
 <!-- <table width="100%">
   <tr>
@@ -135,7 +133,7 @@ Profile Count Badge
 
 <!--Contact Section--> 
 
-<h2 align="center">ミ Cᴏɴᴛᴀᴄᴛ 彡</h2>
+<h2 align="center">Cᴏɴᴛᴀᴄᴛ</h2>
 <div align="center">
   
 <a href="mailto:kvevcium+support@gmail.com" target="_blank" style="text-decoration: none !important;padding-right: 5px;">
