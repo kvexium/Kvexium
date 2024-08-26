@@ -8,7 +8,7 @@
 <!--Header Name-->
 <h1 style="border-bottom: 0px !important"><img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="40" z-index="1"/>&nbsp; ʜɪ, Kᴠᴇxɪᴜᴍ ʜᴇʀᴇ!</h1>
 
-<p><strong>Kᴠᴇxɪᴜᴍ UG</strong> ɪꜱ ᴀ ꜱᴍᴀʟʟ, ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴇᴀᴍ ꜰᴏᴄᴜꜱᴇᴅ ꜱᴏʟᴇʟʏ ᴏɴ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴛʜᴇ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ <strong>Kᴠᴇxɪᴜᴍ</strong>. ʟᴇᴅ ʙʏ <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a> [ ᴏɴʟʏ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ], ᴏᴜʀ ᴍɪꜱꜱɪᴏɴ ɪꜱ ᴛᴏ ᴘᴜꜱʜ ᴛʜᴇ ʙᴏᴜɴᴅᴀʀɪᴇꜱ ᴏꜰ ᴍᴏᴅᴇʀɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʙʏ ᴄʀᴇᴀᴛɪɴɢ ᴀ ʟᴀɴɢᴜᴀɢᴇ ᴛʜᴀᴛ ʙᴀʟᴀɴᴄᴇꜱ ᴘᴏᴡᴇʀ, ᴘʀᴇᴄɪꜱɪᴏɴ, ᴀɴᴅ ᴇxᴘʀᴇꜱꜱɪᴠᴇ, ᴋɪɴᴅ ᴏꜰ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɴᴅ ɴᴇᴡ ꜱʏɴᴛᴀx. ᴡᴇ ᴀʀᴇ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴘʀᴏᴠɪᴅɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ ᴡɪᴛʜ ᴛʜᴇ ᴛᴏᴏʟꜱ ᴛʜᴇʏ ɴᴇᴇᴅ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴍᴘʟᴇx ᴘʀᴏʙʟᴇᴍꜱ ᴇꜰꜰɪᴄɪᴇɴᴛʟʏ ᴀɴᴅ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ.</p>
+<p><strong>Kᴠᴇxɪᴜᴍ UG</strong> is a small, dedicated team focused solely on the development of the innovative programming language <strong>Kᴠᴇxɪᴜᴍ</strong>. led by <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a> [ ᴏɴʟʏ ɢᴏᴏᴅ ᴀᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ɪʀʀᴇʟᴇᴠᴀɴᴛ ꜱᴛᴜꜰꜰ シ ], our mission is to push the boundaries of modern programming by creating a language that balances power, precision, and expressive, kind of innovative and new syntax. We are passionate about providing developers a tool build for to solve complex or just simple problems efficiently and effectively.</p>
 
 <h2 align="center">Oᴜʀ Tᴇᴀᴍ</h2>
 
