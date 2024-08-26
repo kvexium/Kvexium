@@ -26,7 +26,8 @@
     <tr>
         <td><strong>ʟᴀɴɢᴜᴀɢᴇ ᴅᴇꜱɪɢɴ</strong></td>
         <td>
-          <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a>
+          <a href="https://github.com/kuhlklay">Kᴜʜʟᴋʟᴀʏ</a><br />
+          <a href="https://github.com/lugiuss">Lᴜɢɪᴜss</a>
         </td>
     </tr>
     <tr>
