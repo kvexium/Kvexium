@@ -2,7 +2,7 @@
 <!--![Kiran1689 Banner Image](./banner.png) -->
 
 <div>
-  <img align="right" width="10%" margin-top="10px" src="./kvevcium.png" z-index="2">
+  <img align="right top" width="10%" margin-top="10px" src="./kvevcium.png" z-index="2">
 </div>
 
 <!--Header Name-->
